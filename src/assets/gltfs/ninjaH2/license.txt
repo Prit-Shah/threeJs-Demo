@@ -1,0 +1,11 @@
+Model Information:
+* title:	3d modle of kawasaki-h2r
+* source:	https://sketchfab.com/3d-models/3d-modle-of-kawasaki-h2r-c5ab580f65c2408892748933c4d34fab
+* author:	BRO (https://sketchfab.com/musawork786)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "3d modle of kawasaki-h2r" (https://sketchfab.com/3d-models/3d-modle-of-kawasaki-h2r-c5ab580f65c2408892748933c4d34fab) by BRO (https://sketchfab.com/musawork786) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
